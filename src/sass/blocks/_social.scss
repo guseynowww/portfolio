@@ -1,0 +1,14 @@
+.social {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    &_icon {
+        width: 20px;
+        height: 20px;
+    }
+}
